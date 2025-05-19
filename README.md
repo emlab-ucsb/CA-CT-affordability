@@ -4,8 +4,8 @@ This repository contains the code, data, and outputs for the Environmental Marke
 
 The full set of materials—including the executive summary, full report, interactive tool, and emLab's website—are available below:
 
-- [Executive Summary](#)  
-- [Full Report](#)  
+- [Executive Summary](https://emlab.ucsb.edu/sites/default/files/documents/emlab-executive-summary-ca-cap-and-trade-energy-affordability.pdf)  
+- [Policy Brief](https://emlab.ucsb.edu/sites/default/files/documents/emlab-policy-brief-ca-cap-and-trade-energy-affordability.pdf))  
 - [Online Tool](https://emlab-ucsb.shinyapps.io/cap-and-trade-tool/)  
 - [emLab Website](https://emlab.ucsb.edu)
 
